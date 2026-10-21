@@ -47,7 +47,8 @@
 정확도는 낮아졌지만 상승일 13일 중 8일을 맞혀 F1 기준으로
 가장 나은 성능을 보였습니다.
 
-![graph](graph.png)
+<img width="1094" height="451" alt="graph" src="https://github.com/user-attachments/assets/ed2ace36-3962-4c08-ac69-6c09edba5682" />
+
 
 ## 5. 한계 및 개선 방향
 - 사전 기반 감성분석은 문맥을 반영하지 못합니다. 실제로
